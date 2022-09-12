@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a senior in high school and currently reside in San Francisco, CA. I am a backend developer and work within the sneaker business and automation world.
+I am a freshman and currently reside in Los Angeles, CA. I am a backend developer and work within the sneaker business and automation world.
 
 - 🔭 I’m currently working on [Ominous AIO](https://ominous.dev/), [Paradox](https://paradoxnotify.com/), and [HomeWork Help](https://hwh.so)
 - 🌱 I’m currently learning React and other frontend frameworks
